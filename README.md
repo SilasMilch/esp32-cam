@@ -3,6 +3,7 @@ Code to programm the ESP32 AI Thinker Cam.
 Can be used to stream low resulution videos via Home Network. 
 
 Used Hardware
+_________________________________________________________
 ESP32-CAM WiFi WiFi Modul ESP32 seriell zu WiFi ESP32 CAM Entwicklung Bord 5V Für Bluetooth mit Kamera modul
 1. https://de.aliexpress.com/item/1005005682050900.html?spm=a2g0o.order_list.order_list_main.29.21a45c5ftIbohk&gatewayAdapt=glo2deu
 
